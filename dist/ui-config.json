@@ -2,7 +2,7 @@
     "txt2img/Prompt/visible": true,
     "txt2img/Prompt/value": "",
     "txt2img/Negative prompt/visible": true,
-    "txt2img/Negative prompt/value": "EasyNegative, (worst quality, low quality:1.4), aid28"
+    "txt2img/Negative prompt/value": "EasyNegative, (worst quality, low quality:1.4), aid28",
     "txt2img/Styles/visible": true,
     "txt2img/Styles/value": [
         ""
